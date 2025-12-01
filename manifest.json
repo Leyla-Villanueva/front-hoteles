@@ -1,0 +1,12 @@
+{
+  "name": "Hotel Management PWA",
+  "short_name": "HotelPWA",
+  "description": "Aplicación PWA para gestión de habitaciones, limpieza y recepción de hotel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "lang": "es-MX"
+}
